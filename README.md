@@ -16,7 +16,7 @@ The latest stable release and release notes can be found [here][ba8097ee].
   [ba8097ee]: https://github.com/cbrgm/telegram-robot-rss/releases/latest "releases"
 
 ### Deploy to Heroku:
-<p align="left"><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/scprojectslk/telegram-robot-rss"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ### Usage
 
